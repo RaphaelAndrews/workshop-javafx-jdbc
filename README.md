@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h3 align="center">Workshop JavaFX JDBC</h3>
+  <h2 align="center">Workshop JavaFX JDBC</h2>
 
   <p align="center">
     Projeto do Curso de Java do Professor Nelio Alves
